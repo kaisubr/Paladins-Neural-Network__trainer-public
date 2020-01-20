@@ -12,7 +12,7 @@ The Paladins Artificial Neural Network uses a convolutional neural network that 
 * The model is able to differentiate enemies and allies in complicated environments
 
 ### Usage
-You should be able to clone the repository without any problems (`!git clone` through Google Colab, for example). In my notebook, consider `/content/drive/My Drive/Colab Notebooks/EnemyDetection/` to be equivalent to `/kaisubr/PANN_trainer-public`.
+You should be able to clone the repository without any problems (`!git clone` through Google Colab, for example). Afterwards, you can train the model yourself! In my notebook, consider `/content/drive/My Drive/Colab Notebooks/EnemyDetection/` to be equivalent to `/kaisubr/PANN_trainer-public`.
 
 ## How effective is it?
 After several iterations, v4.4 performs as follows:
