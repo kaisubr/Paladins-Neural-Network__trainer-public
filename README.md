@@ -5,12 +5,14 @@ This repository contains the training configuration files and the notebook (Trai
 Paladins is a first-person shooter with complex game mechanics, such as deployables, revealing, and crowd control effects.
 
 ## How it works
-
 The Paladins Artificial Neural Network uses a convolutional neural network that detects enemy models and may be used to intelligently aim the player at a target.
 * The network can detect obfuscated enemies, such as revealed enemies behind walls
 * In some cases, the model was able to predict almost completely obstructed bodies
 * The model is able detect partial bodies (such as a torso but no legs)
 * The model is able to differentiate enemies and allies in complicated environments
+
+### Usage
+You should be able to clone the repository without any problems (`!git clone` through Google Colab, for example). In my notebook, consider `/content/drive/My Drive/Colab Notebooks/EnemyDetection/` to be equivalent to `/kaisubr/PANN_trainer-public`.
 
 ## How effective is it?
 After several iterations, v4.4 performs as follows:
