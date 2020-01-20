@@ -21,6 +21,7 @@ After several iterations, v4.4 performs as follows:
 
 ![mAP chart](https://github.com/kaisubr/PANN__inferencer/tree/master/someshots/mAP.PNG?raw=true "")
 
+<!--
 ### Git LFS
 You may clone this repository with `git clone`. If large files don't clone, try `git lfs clone`. Recall that in Google Colab, you'll need to use `!`.
 To push, you need to have [LFS](https://help.github.com/en/github/managing-large-files/versioning-large-files) installed. Then, run 
@@ -35,6 +36,7 @@ git add .
 git commit -m "commit message"
 git push origin master
 ```
+-->
 
 ### Training information
 This is how I trained the network:
