@@ -1,7 +1,4 @@
 *.tar.gz
-/training/log_dep0/*.ckpt-*
-/training/log_dep1/*.ckpt-*
-/training/log_dep2/*.ckpt-*
-/training/log_dep3/*.ckpt-*
+*.ckpt-*
 *.tflite
 *.pb
