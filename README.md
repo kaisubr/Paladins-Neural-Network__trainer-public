@@ -8,3 +8,9 @@ To push, you need to have [LFS](https://help.github.com/en/github/managing-large
 git lfs track "*.tar.gz"
 git lfs track "*.ckpt-*"
 ```
+Then, push as necessary:
+```
+git add .
+git commit -m "commit message"
+git push origin master
+```
