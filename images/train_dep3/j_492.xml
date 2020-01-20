@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>j_492.png</filename>
+	<path>C:\Users\plsub\Desktop\LocalHome\PROGRAMS\LabelImg_Out\EnemIdent\raw\j_492.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>model</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>658</xmin>
+			<ymin>353</ymin>
+			<xmax>682</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>
