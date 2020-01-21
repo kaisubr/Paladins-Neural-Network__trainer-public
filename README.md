@@ -42,7 +42,7 @@ git push origin master
 
 ### Training information
 This is how I trained the network:
-* Tesla T4 using Google Colab.
+* Tesla T4 using Google Colab. Mainly used Tensorflow, OpenCV.
 * The process went through four versions before arriving at ssdlite-mobilenet and processing through TFLite.
 * I finetuned my model using the model trained from the COCO dataset.
 * 60k steps; 300 training at batch size 24 and L2 regularization. Single class (`model`).
